@@ -1,12 +1,12 @@
 # Obsidian journal setup
 
 ## Plugins
-1. dataview
-2. templater
+1. Dataview
+2. Templater
 
 ## Templates
-1. daily note 
-2. assign type
-3. filtered view
-4. home page
+1. Daily note 
+2. Assign type
+3. Filtered view
+4. Home page
 
