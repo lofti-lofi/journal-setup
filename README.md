@@ -9,4 +9,3 @@
 2. Assign type
 3. Filtered view
 4. Home page
-
