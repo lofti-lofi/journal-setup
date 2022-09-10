@@ -1,6 +1,6 @@
 [[README]]
 
-# READ ME
+# Download and Open as Obsidian Vault
 
 Get to the journal page 👉 [[Journal]]  or use the daily note button in the titlebar 🔼
 
