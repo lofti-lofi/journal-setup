@@ -3,7 +3,7 @@
 
 # ⚠ Download ZIP and Open as Obsidian Vault
 
-OR see the PDF https://github.com/github/lofti-lofi/journal-setup/README.pdf
+OR see the PDF https://github.com/lofti-lofi/journal-setup/blob/main/README.pdf
 
 Get to the journal page 👉 [[Journal]]  or use the daily note button in the titlebar 🔼
 
