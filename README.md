@@ -16,7 +16,7 @@ Note: the CSS will most likely require modification to make it compatible with y
 
 My notes are a linearized form of my thinking. Being so refined, they don't seep potential or feed curiosity in a way that a less well-written, subconscious piece would. My journal is situated in such a way to convey this gulf between my notes and my mind with something in between to preserve and distribute horrible pieces of interesting writing that make me excited to both explore a new set of knowledge and rigorously test my understanding in note-taking. 
 
-Capturing temporeal information, it also renders writing not only as a medium for efficiency (to battle forgetfulness, loss, and waste) but also of togetherness. Making me think about the character and depth that is shown to me, and how I should want to grow from there.
+Capturing temporeal information, journaling renders itself not only as a medium for efficiency (to battle forgetfulness, loss, and waste) but also of togetherness. Making me think about the character and depth that is shown to me, and how I should want to grow from there.
 
 .... Anyways enjoy this I guess. @lofti lofi in the OMG discord, if you need help. 
 
