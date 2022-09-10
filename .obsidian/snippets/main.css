@@ -1,0 +1,74 @@
+/* Callouts & Dataview */
+[data-callout="log"] .callout-title, [data-callout="nav"] .callout-icon, [data-callout="nav"] .callout-fold {
+    display: none;
+}
+
+[data-callout="log"], [data-callout="log"] .callout-content, [data-callout="nav"], [data-callout="nav"] .callout-title, 
+[data-callout="nav"] .callout-content {
+    background: none !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+[data-callout="nav"] .dataview.list-view-ul {margin: 0 !important;}
+[data-callout="nav"] .callout-title .callout-title-inner {font-weight: normal !important;}
+
+[data-callout="log"]:not([data-callout-metadata*="label"]) [data-link-path*="Logs"], 
+[data-callout="log"]:not([data-callout-metadata*="field"]) .inline-field {
+    display: none;
+}
+
+[data-callout="log"][data-callout-metadata*="label"] [data-link-path*="Logs"], 
+[data-callout="log"][data-callout-metadata*="field"] .inline-field {
+    display: inline-block;
+}
+
+.log .dataview.dataview-container h4:first-of-type {display: none !important;}
+
+/* Log Links*/
+
+ul.contains-task-list [data-link-path^="Logs"], .internal-embed[src="nav"] a {
+    background: var(--background-modifier-border) !important;
+    text-decoration: none !important;
+    padding: 0px 6px;
+    border-radius: 3px;
+}
+
+.dataview.inline-field span {
+    background: none !important;
+}
+
+/* Nav */
+.internal-embed[src="nav"] a {margin-right: 4px;}
+
+.internal-embed[src="nav"] .markdown-embed-title, .internal-embed[src="nav"] .markdown-embed-link {
+    display: none;
+}
+
+.internal-embed[src="nav"] .markdown-embed, .internal-embed[src="nav"] .markdown-preview-view,
+.internal-embed[src="nav"] ul {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.internal-embed[src="nav"] ul li {display: inline;}
+
+/* Note Gallery */
+  
+.g  {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 5px;
+}
+
+/* Screen larger than 600px? 2 column */
+@media (min-width: 600px) {
+    .g { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* Screen larger than 900px? 3 columns */
+@media (min-width: 900px) {
+    .g { grid-template-columns: repeat(3, 1fr); }
+}
