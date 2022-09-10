@@ -1,5 +1,7 @@
 [[README]]
 
+https://github.com/github/codeql/blob/main/README.pdf
+
 # ⚠ Download ZIP and Open as Obsidian Vault
 
 Get to the journal page 👉 [[Journal]]  or use the daily note button in the titlebar 🔼
