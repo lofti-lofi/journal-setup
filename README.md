@@ -1,9 +1,10 @@
 # Obsidian journal setup
 
-The elements of this setup is the daily note, the views that filter the daily note entries, and navigational aspects (ordered links) to easily switch between them. 
+The elements of this setup is the daily note, the views that filter the daily note entries, and navigational aspects (ordered links/directories) to easily switch between them. 
 
 ![image](https://user-images.githubusercontent.com/76537723/189468649-02d1c3cf-c15b-4fa1-867c-42524126eb00.png)
 ![image](https://user-images.githubusercontent.com/76537723/189468658-f2f27daa-d7eb-4490-8c80-3e2c1467eb64.png)
+![image](https://user-images.githubusercontent.com/76537723/189468672-16938109-c7da-4b83-bc3b-05f4f0a0deb2.png)
 
 
 The plugins you need are: 1) Dataview, 2) Templater, 3) Daily Notes/Periodic Notes, and 4) Markdown Attributes. 
