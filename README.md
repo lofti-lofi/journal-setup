@@ -2,13 +2,21 @@
 
 The elements of this setup is the daily note, the views that filter the daily note entries, and navigational aspects (ordered links) to easily switch between them. 
 
-The plugins you need are: 1) Dataview, 2) Templater, and 3) Markdown Attributes. 
+
+
+The plugins you need are: 1) Dataview, 2) Templater, 3) Daily Notes/Periodic Notes, and 4) Markdown Attributes. 
+Recommended: Customizable Page Header and Title Bar, Hotkeys for specific files (for navigation: "home" and "daily note" buttons)
 
 The essential component is a template that adds a label to a journal entry i.e. a checkbox item. This is what allows you to filter the content. With the addition of inline fields like `(key:: value)` and `[key:: value]` you can create more modular views.
 
 You can download and open this git as a vault, so you can test out this setup, or you can just lift the templates and css to start a journal in your own vault.
 
 Note: the CSS will most likely require modification to make it compatible with your theme/css.
+
+## Info on Test Journal vault
+1. hotkey to add label to journal entry: `Ctr + X`
+2. file to edit log directory: `Templates/nav`
+3. click the right side of the log directory to expand it (shows secondary logs)
 
 [STOP HERE IF YOU JUST WANT THE SETUP]
 
