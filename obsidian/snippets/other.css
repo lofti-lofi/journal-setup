@@ -1,0 +1,7 @@
+strong {
+    color: var(--text-accent);
+}
+
+[data-callout="log"] .dataview.dataview-container .contains-task-list {margin-top: -0.5em !important;}
+
+img[alt="border"] {border: #c7254e 1px solid;}

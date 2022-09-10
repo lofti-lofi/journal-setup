@@ -1,0 +1,12 @@
+{
+  "matches": [
+    {
+      "path": "Logs",
+      "scope": "Read",
+      "classes": [
+        "log"
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

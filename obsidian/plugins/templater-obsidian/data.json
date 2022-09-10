@@ -1,0 +1,35 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "Templates",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Logs",
+      "template": "Templates/log.md"
+    },
+    {
+      "folder": "Journal",
+      "template": "Templates/daily.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "Templates/label.md",
+    "Templates/test.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

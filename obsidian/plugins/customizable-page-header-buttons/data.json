@@ -1,0 +1,21 @@
+{
+  "enabledButtons": [
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Home.md",
+      "icon": "lucide-home",
+      "name": "Hotkeys for specific files: Open Home",
+      "showButtons": "both"
+    },
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar",
+      "name": "Daily notes: Open today's daily note",
+      "showButtons": "both"
+    }
+  ],
+  "desktop": true,
+  "titleLeft": [],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}
