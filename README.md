@@ -1,30 +1,18 @@
 # Obsidian journal setup
 
-## Plugins
-1. Dataview
-2. Templater
+The elements of this setup is the daily note, the views that filter the daily note entries, and navigational aspects (ordered links) to easily switch between them. The plugins you need are: 1) Dataview, 2) Templater, and 3) Markdown Attributes. The essential component is a template that adds a label to a journal entry i.e. a checkbox item. This is what allows you to filter the content. With the addition of inline fields like `(key:: value)` and `[key:: value]` you can create more modular views.
 
-## Elements
-1. Daily note
-2. Checkbox item - entry
-3. Filtered view - log
-4. Navigational aspects - individual and grouped links
+You can download and open this git as a vault, so you can test out this setup, or you can just lift the templates and css to start a journal in your own vault.
 
-## Examples of types to assign to a journal entry
-1. topic 
-2. question
-3. prompt  
-4. quote 
-5. idea 
+Note: the CSS will most likely require modification to make it compatible with your theme/css.
 
-### Lofti's entry types
-1. "luminary - light-giving, navigational"
-2. "topograph - lay distance and direction"
-3. "sate - answer, correlate"
-4. "expect - prompt inspiritment"
-5. "kairos - epiphanic"
-6. "note - flourish, imprint, bequeath"
-7. "prose - invocation, assistance"
-8. "vocabulary - unique, usable"
-9. "image - fractional vision"
-10. "read - intent and interest preserved"
+[STOP HERE IF YOU JUST WANT THE SETUP]
+
+### Notes on journaling, and how it meshes with note-taking
+
+My notes are a linearized form of my thinking. Being so refined, they don't seep potential or feed curiosity in a way that a less well-written, subconscious piece would. My journal is situated in such a way to convey this gulf between my notes and my mind with something in between to preserve and distribute horrible pieces of interesting writing that make me excited to both explore a new set of knowledge and rigorously test my understanding in note-taking. 
+
+Capturing temporeal information, it also renders writing not only as a medium for efficiency (to battle forgetfulness, loss, and waste) but also of togetherness. Making me think about the character and depth that is shown to me, and how I should want to grow from there.
+
+.... Anyways enjoy this I guess. @lofti lofi in the OMG discord, if you need help. 
+
