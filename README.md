@@ -31,11 +31,11 @@ The most important is the [[label]] template, which adds a link-label to every j
 
 ### Integrating this into your vault
 
-When making the Test Vault, I wanted it to be used as a **reference**, so the process of integrating this vault to your current one will look like this: 
+When making the Test Vault, I wanted it to be used as a **reference**, so the process of integrating this vault to your current one will look kinda like this: 
 1. Creation of the main folders (2): "logs", "journal", etc. 
 2. Installation of plugins: check the plugins section in the Test Vault settings.
 3. Propagation of the necessary pages: the templates (3) in your Templates folder, a [[Journal]] page, and a customized [[nav]] page. 
-4. Etcetera: the creation of logs and the modification of the label template according to your choosing with this vault as reference.
+4. Et cetera: the creation of logs and the modification of the label template according to your choosing with this vault as reference.
 
 **[STOP HERE IF YOU JUST WANT THE SETUP]**
 
@@ -50,7 +50,7 @@ Capturing temporeal information, journaling renders itself not only as a medium 
 ### My Implementation
 I like highly abstract labels for my journal.
 
-![[lofti's journal|border]]
+![[lofti's journal.png|border]]
 
 1. luminary - light-giving. navigational (things I want to guide my person with)
 2. topograph - lay distance and direction (interesting topics/avenues that I encounter that can't be traced in my current note-taking)
@@ -65,11 +65,8 @@ I like highly abstract labels for my journal.
 
 It suits my journal, which is equal to my other note mediums.
 
-![[lofti's home|border]]
+![[lofti's home.png|border]]
 
-But, it is the most special (loyal) since it contains the direct imprints of my mind. It is the conveyance between my mind between the states that it is detached and free-floating and when it is settled and relatively calm.
-
-
-1. 
+But, it is the most special (loyal to my mind). I've realized I needed something like this to convey easily between my detached, free-floating state of mind and the ones that are more realistic and structured, adapted for writing.
 
 .... Anyways enjoy this I guess. `@lofti lofi` in the Obsidian discord, if you need help. 
