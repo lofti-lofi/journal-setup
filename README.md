@@ -71,4 +71,4 @@ But, it is the most special (loyal to my mind and thinking). I've realized I nee
 
 .... Anyways enjoy this I guess. `@lofti lofi` in the Obsidian discord if you need help :)
 
-Thanks to @shabegom, @AB1908, and @Luke for help on my label template.  
+Thanks to `@shabegom`, `@AB1908`, and `@Luke` for help on my label template.  
