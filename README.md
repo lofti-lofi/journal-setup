@@ -69,4 +69,6 @@ It suits my journal, which is equal, alongside my other note mediums.
 
 But, it is the most special (loyal to my mind and thinking). I've realized I needed something like this to convey easily between my detached, free-floating state of mind and the ones that are more realistic and structured, adapted for writing, which satisfying the parts of myself that both want roam and rigor. 
 
-.... Anyways enjoy this I guess. `@lofti lofi` in the Obsidian discord, if you need help. 
+.... Anyways enjoy this I guess. `@lofti lofi` in the Obsidian discord if you need help :)
+
+Thanks to @shabegom, @AB1908, and @Luke for help on my label template.  
