@@ -60,13 +60,13 @@ I like highly abstract labels for my journal.
 6. note - flourish, imprint, bequeath (a fleeting note OR a note unfolding with slow progress)
 7. prose - invocation, assistance (beautiful pieces of prose that i would like to keep)
 8. vocabulary - unique, usable 
-9. image - fractional vision (beautiful images shown in my imagination. a way to honor that part of myself)
+9. image - fractional vision (beautiful images shown in my imagination. a way to honor that aspect of myself)
 10. read - intent and interest preserved
 
-It suits my journal, which is equal to my other note mediums.
+It suits my journal, which is equal, alongside my other note mediums.
 
-![[lofti's home.png|border]]
+![[lofti's home.png|300]]
 
-But, it is the most special (loyal to my mind). I've realized I needed something like this to convey easily between my detached, free-floating state of mind and the ones that are more realistic and structured, adapted for writing.
+But, it is the most special (loyal to my mind and thinking). I've realized I needed something like this to convey easily between my detached, free-floating state of mind and the ones that are more realistic and structured, adapted for writing, which satisfying these parts of myself. 
 
 .... Anyways enjoy this I guess. `@lofti lofi` in the Obsidian discord, if you need help. 
